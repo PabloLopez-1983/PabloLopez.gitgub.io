@@ -1,0 +1,10 @@
+.img-dimension {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.color-empresa {
+    color: #1a477e; /* Azul Bootstrap */
+    font-weight: bold;
+}
